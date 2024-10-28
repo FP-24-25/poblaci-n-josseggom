@@ -61,7 +61,10 @@ def filtra_por_paises_y_anyo(poblaciones: list(RegistroPoblacion), anyo: int, pa
         for e in poblaciones:
             if i in poblaciones.pais:
                 if anyo < poblaciones.año:
-                    res
+                    
 
+"""
+Ejercicios Corregidos en clase
 
+"""
 
